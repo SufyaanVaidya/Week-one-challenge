@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* replaced div with nav */
 header nav  {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ header nav  {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* removed the ul tag */
 header nav  {
     list-style-type: none;
 }
-
+/* replaced div with nav */
 header nav  li {
     display: inline-block;
     margin-left: 25px;
@@ -133,8 +133,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.search-engine-optimization {
+/* replaced . with # */
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -142,8 +142,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.online-reputation-management {
+/* replaced . with # */
+#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -151,8 +151,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.social-media-marketing {
+/* replaced . with # */
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
